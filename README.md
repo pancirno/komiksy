@@ -1,2 +1,0 @@
-# komiksy
-zbior webkomiksow
